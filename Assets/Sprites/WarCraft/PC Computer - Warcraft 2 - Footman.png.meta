@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 2c141114a25b94d3c8a9c86c5681b6f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5641493958829387175
+    second: PC Computer - Warcraft 2 - Footman_0
+  - first:
+      213: -6467976928181070441
+    second: PC Computer - Warcraft 2 - Footman_1
+  - first:
+      213: -7439971401970374990
+    second: PC Computer - Warcraft 2 - Footman_2
+  - first:
+      213: -4372094861503172245
+    second: PC Computer - Warcraft 2 - Footman_3
+  - first:
+      213: -6262450865761870302
+    second: PC Computer - Warcraft 2 - Footman_4
+  - first:
+      213: -5927230270877182794
+    second: PC Computer - Warcraft 2 - Footman_5
+  - first:
+      213: -4427550591121960992
+    second: PC Computer - Warcraft 2 - Footman_6
+  - first:
+      213: -4950397696755069401
+    second: PC Computer - Warcraft 2 - Footman_7
+  - first:
+      213: 5137846758652378465
+    second: PC Computer - Warcraft 2 - Footman_8
+  - first:
+      213: 6783089821098038835
+    second: PC Computer - Warcraft 2 - Footman_9
+  - first:
+      213: 6897246987324164227
+    second: PC Computer - Warcraft 2 - Footman_10
+  - first:
+      213: -2295382644750865932
+    second: PC Computer - Warcraft 2 - Footman_11
+  - first:
+      213: 1088480036688573705
+    second: PC Computer - Warcraft 2 - Footman_12
+  - first:
+      213: 9180720911235613164
+    second: PC Computer - Warcraft 2 - Footman_13
+  - first:
+      213: 6959514343004645765
+    second: PC Computer - Warcraft 2 - Footman_14
+  - first:
+      213: 4852609539341308142
+    second: PC Computer - Warcraft 2 - Footman_15
+  - first:
+      213: -6930487553782283523
+    second: PC Computer - Warcraft 2 - Footman_16
+  - first:
+      213: 7704003338524989326
+    second: PC Computer - Warcraft 2 - Footman_17
+  - first:
+      213: -2378785054417751369
+    second: PC Computer - Warcraft 2 - Footman_18
+  - first:
+      213: -2993251231021883274
+    second: PC Computer - Warcraft 2 - Footman_19
+  - first:
+      213: -5422321301174458232
+    second: PC Computer - Warcraft 2 - Footman_20
+  - first:
+      213: -3442309614734130546
+    second: PC Computer - Warcraft 2 - Footman_21
+  - first:
+      213: -4389078106547661240
+    second: PC Computer - Warcraft 2 - Footman_22
+  - first:
+      213: 8770981308543794146
+    second: PC Computer - Warcraft 2 - Footman_23
+  - first:
+      213: 2724875713590997711
+    second: PC Computer - Warcraft 2 - Footman_24
+  - first:
+      213: 860980851194971102
+    second: PC Computer - Warcraft 2 - Footman_25
+  - first:
+      213: -5098035263323810566
+    second: PC Computer - Warcraft 2 - Footman_26
+  - first:
+      213: 7983436035742384450
+    second: PC Computer - Warcraft 2 - Footman_27
+  - first:
+      213: -7967170693830108887
+    second: PC Computer - Warcraft 2 - Footman_28
+  - first:
+      213: 6776963458900917892
+    second: PC Computer - Warcraft 2 - Footman_29
+  - first:
+      213: -2247073176217526296
+    second: PC Computer - Warcraft 2 - Footman_30
+  - first:
+      213: -918813135309386751
+    second: PC Computer - Warcraft 2 - Footman_31
+  - first:
+      213: -2768287400372982620
+    second: PC Computer - Warcraft 2 - Footman_32
+  - first:
+      213: -9070002276813797950
+    second: PC Computer - Warcraft 2 - Footman_33
+  - first:
+      213: 8944382491144022973
+    second: PC Computer - Warcraft 2 - Footman_34
+  - first:
+      213: -125747191284868502
+    second: PC Computer - Warcraft 2 - Footman_35
+  - first:
+      213: 1066106933334603560
+    second: PC Computer - Warcraft 2 - Footman_36
+  - first:
+      213: 2031567521281443881
+    second: PC Computer - Warcraft 2 - Footman_37
+  - first:
+      213: -1687143140594309011
+    second: PC Computer - Warcraft 2 - Footman_38
+  - first:
+      213: -8343949442237544117
+    second: PC Computer - Warcraft 2 - Footman_39
+  - first:
+      213: 4943422283436921359
+    second: PC Computer - Warcraft 2 - Footman_40
+  - first:
+      213: 684489274512683571
+    second: PC Computer - Warcraft 2 - Footman_41
+  - first:
+      213: -7074017607288246142
+    second: PC Computer - Warcraft 2 - Footman_42
+  - first:
+      213: -6292423815936313699
+    second: PC Computer - Warcraft 2 - Footman_43
+  - first:
+      213: -2985132276137023522
+    second: PC Computer - Warcraft 2 - Footman_44
+  - first:
+      213: 6414179194471184888
+    second: PC Computer - Warcraft 2 - Footman_45
+  - first:
+      213: -4739037138913276853
+    second: PC Computer - Warcraft 2 - Footman_46
+  - first:
+      213: 6579930408386045481
+    second: PC Computer - Warcraft 2 - Footman_47
+  - first:
+      213: -2414672600486417291
+    second: PC Computer - Warcraft 2 - Footman_48
+  - first:
+      213: -5776278324266367972
+    second: PC Computer - Warcraft 2 - Footman_49
+  - first:
+      213: -422949866305238617
+    second: PC Computer - Warcraft 2 - Footman_50
+  - first:
+      213: 3434082103893378342
+    second: PC Computer - Warcraft 2 - Footman_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 574
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525675622365b1b0800000000000000
+      internalID: -5641493958829387175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 575
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795585ca0412d36a0800000000000000
+      internalID: -6467976928181070441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6ad76bd69efb890800000000000000
+      internalID: -7439971401970374990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 576
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fac743e23353c0800000000000000
+      internalID: -4372094861503172245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 566
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e1de21e1e4719a0800000000000000
+      internalID: -6262450865761870302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 510
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b45c62f87f3ebda0800000000000000
+      internalID: -5927230270877182794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 518
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efca1f023e2e82c0800000000000000
+      internalID: -4427550591121960992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 514
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e800ce587ac4bb0800000000000000
+      internalID: -4950397696755069401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 510
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfddfc76c4d4740800000000000000
+      internalID: 5137846758652378465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 510
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dd120140622e50800000000000000
+      internalID: 6783089821098038835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 456
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388079f7791f7bf50800000000000000
+      internalID: 6897246987324164227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9270465a92520e0800000000000000
+      internalID: -2295382644750865932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 459
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053deb83de0b1f00800000000000000
+      internalID: 1088480036688573705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 458
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce10338f609786f70800000000000000
+      internalID: 9180720911235613164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 452
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58927000c69259060800000000000000
+      internalID: 6959514343004645765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 405
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05c127aaee75340800000000000000
+      internalID: 4852609539341308142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 407
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28a840a46f1df90800000000000000
+      internalID: -6930487553782283523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 412
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879435083e1aea60800000000000000
+      internalID: 7704003338524989326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 412
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2fb6aa89bdcfed0800000000000000
+      internalID: -2378785054417751369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 404
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a0734dd5d576d0800000000000000
+      internalID: -2993251231021883274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 357
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886679518b00c4b0800000000000000
+      internalID: -5422321301174458232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 360
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824cdeb4a57a30d0800000000000000
+      internalID: -3442309614734130546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84658c767bcd613c0800000000000000
+      internalID: -4389078106547661240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 366
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf75b8709c8b970800000000000000
+      internalID: 8770981308543794146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 353
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23ea54604b0d520800000000000000
+      internalID: 2724875713590997711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 300
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c3e1c581d2fb00800000000000000
+      internalID: 860980851194971102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 300
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45b2540f32049b0800000000000000
+      internalID: -5098035263323810566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 300
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414a75c6ccdace60800000000000000
+      internalID: 7983436035742384450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 301
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9299a51477cee6190800000000000000
+      internalID: -7967170693830108887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 301
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e77972c5c9c0e50800000000000000
+      internalID: 6776963458900917892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efde3b0adac0d0e0800000000000000
+      internalID: -2247073176217526296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 246
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ccbee4258bf33f0800000000000000
+      internalID: -918813135309386751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2490c6411599d0800000000000000
+      internalID: -2768287400372982620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58782fbf0e02280800000000000000
+      internalID: -9070002276813797950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 248
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbecdf7c74d02c70800000000000000
+      internalID: 8944382491144022973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a56f38891414ef0800000000000000
+      internalID: -125747191284868502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 179
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277dfd7b929bce00800000000000000
+      internalID: 1066106933334603560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 179
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928833b95e3913c10800000000000000
+      internalID: 2031567521281443881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 176
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a3a3a0401698e0800000000000000
+      internalID: -1687143140594309011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 179
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49cc9fb036543c80800000000000000
+      internalID: -8343949442237544117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02120b10609a9440800000000000000
+      internalID: 4943422283436921359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 123
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332b4eb5e5bcf7900800000000000000
+      internalID: 684489274512683571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 123
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b9b6477a04dd90800000000000000
+      internalID: -7074017607288246142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_43
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 124
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9678eac0e1dca8a0800000000000000
+      internalID: -6292423815936313699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ac41c20ea296d0800000000000000
+      internalID: -2985132276137023522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f72c5efdb30950800000000000000
+      internalID: 6414179194471184888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc0b5a4de8b3eb0800000000000000
+      internalID: -4739037138913276853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 49
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92624ae28db905b50800000000000000
+      internalID: 6579930408386045481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 51
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6327301c5d7ed0800000000000000
+      internalID: -2414672600486417291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 57
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c148056d77986dfa0800000000000000
+      internalID: -5776278324266367972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c3156651612af0800000000000000
+      internalID: -422949866305238617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Footman_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625471c9a7f48af20800000000000000
+      internalID: 3434082103893378342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

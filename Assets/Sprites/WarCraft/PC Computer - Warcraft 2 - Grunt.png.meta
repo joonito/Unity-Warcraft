@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 02c37761459e1485d8df09bc1b41e8e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3873063670578294849
+    second: PC Computer - Warcraft 2 - Grunt_0
+  - first:
+      213: 4926351133346015247
+    second: PC Computer - Warcraft 2 - Grunt_1
+  - first:
+      213: 229189023243582332
+    second: PC Computer - Warcraft 2 - Grunt_2
+  - first:
+      213: 6915069880661722218
+    second: PC Computer - Warcraft 2 - Grunt_3
+  - first:
+      213: 4622292255173121925
+    second: PC Computer - Warcraft 2 - Grunt_4
+  - first:
+      213: 6648493647076759424
+    second: PC Computer - Warcraft 2 - Grunt_5
+  - first:
+      213: 6184580401900398000
+    second: PC Computer - Warcraft 2 - Grunt_6
+  - first:
+      213: 8652132138095047839
+    second: PC Computer - Warcraft 2 - Grunt_7
+  - first:
+      213: -8397430780931627917
+    second: PC Computer - Warcraft 2 - Grunt_8
+  - first:
+      213: -4150601094241903988
+    second: PC Computer - Warcraft 2 - Grunt_9
+  - first:
+      213: 4377506849675944082
+    second: PC Computer - Warcraft 2 - Grunt_10
+  - first:
+      213: 1605841707904854472
+    second: PC Computer - Warcraft 2 - Grunt_11
+  - first:
+      213: -6953635838933126665
+    second: PC Computer - Warcraft 2 - Grunt_12
+  - first:
+      213: -5225066643066117633
+    second: PC Computer - Warcraft 2 - Grunt_13
+  - first:
+      213: 8335876129985474165
+    second: PC Computer - Warcraft 2 - Grunt_14
+  - first:
+      213: 9144082584041519972
+    second: PC Computer - Warcraft 2 - Grunt_15
+  - first:
+      213: 7949438589140583990
+    second: PC Computer - Warcraft 2 - Grunt_16
+  - first:
+      213: -3671073633861277551
+    second: PC Computer - Warcraft 2 - Grunt_17
+  - first:
+      213: -7815682247535597949
+    second: PC Computer - Warcraft 2 - Grunt_18
+  - first:
+      213: -2365481163841533790
+    second: PC Computer - Warcraft 2 - Grunt_19
+  - first:
+      213: -4056272849260301763
+    second: PC Computer - Warcraft 2 - Grunt_20
+  - first:
+      213: 3196090498094979751
+    second: PC Computer - Warcraft 2 - Grunt_21
+  - first:
+      213: -2349777505968645788
+    second: PC Computer - Warcraft 2 - Grunt_22
+  - first:
+      213: 359268106028583387
+    second: PC Computer - Warcraft 2 - Grunt_23
+  - first:
+      213: 8829811115947186138
+    second: PC Computer - Warcraft 2 - Grunt_24
+  - first:
+      213: -3177911084087665499
+    second: PC Computer - Warcraft 2 - Grunt_25
+  - first:
+      213: -8471622052028547246
+    second: PC Computer - Warcraft 2 - Grunt_26
+  - first:
+      213: -5489192442530347356
+    second: PC Computer - Warcraft 2 - Grunt_27
+  - first:
+      213: -1770112050250850025
+    second: PC Computer - Warcraft 2 - Grunt_28
+  - first:
+      213: -6109948556341388889
+    second: PC Computer - Warcraft 2 - Grunt_29
+  - first:
+      213: -9216946261753685678
+    second: PC Computer - Warcraft 2 - Grunt_30
+  - first:
+      213: 7117468880487637634
+    second: PC Computer - Warcraft 2 - Grunt_31
+  - first:
+      213: -2372495478972502723
+    second: PC Computer - Warcraft 2 - Grunt_32
+  - first:
+      213: -1092178034657176713
+    second: PC Computer - Warcraft 2 - Grunt_33
+  - first:
+      213: -2687841096011353921
+    second: PC Computer - Warcraft 2 - Grunt_34
+  - first:
+      213: 6784437726912680327
+    second: PC Computer - Warcraft 2 - Grunt_35
+  - first:
+      213: 8260734390284595306
+    second: PC Computer - Warcraft 2 - Grunt_36
+  - first:
+      213: 2829918631286475716
+    second: PC Computer - Warcraft 2 - Grunt_37
+  - first:
+      213: -573894685548719610
+    second: PC Computer - Warcraft 2 - Grunt_38
+  - first:
+      213: -1715533084812062565
+    second: PC Computer - Warcraft 2 - Grunt_39
+  - first:
+      213: -3877951386295930972
+    second: PC Computer - Warcraft 2 - Grunt_40
+  - first:
+      213: 2572508869200666974
+    second: PC Computer - Warcraft 2 - Grunt_41
+  - first:
+      213: -4859688945294559328
+    second: PC Computer - Warcraft 2 - Grunt_42
+  - first:
+      213: -7633292354915060433
+    second: PC Computer - Warcraft 2 - Grunt_43
+  - first:
+      213: -2472489007239620656
+    second: PC Computer - Warcraft 2 - Grunt_44
+  - first:
+      213: -4280384910906333121
+    second: PC Computer - Warcraft 2 - Grunt_45
+  - first:
+      213: -1961505422797841253
+    second: PC Computer - Warcraft 2 - Grunt_46
+  - first:
+      213: -6324648843500298867
+    second: PC Computer - Warcraft 2 - Grunt_47
+  - first:
+      213: -3697872558415671892
+    second: PC Computer - Warcraft 2 - Grunt_48
+  - first:
+      213: 6484110889716325007
+    second: PC Computer - Warcraft 2 - Grunt_49
+  - first:
+      213: -2057054367936114396
+    second: PC Computer - Warcraft 2 - Grunt_50
+  - first:
+      213: -7935024111792067792
+    second: PC Computer - Warcraft 2 - Grunt_51
+  - first:
+      213: -7159362104380903407
+    second: PC Computer - Warcraft 2 - Grunt_52
+  - first:
+      213: 8755135969605009
+    second: PC Computer - Warcraft 2 - Grunt_53
+  - first:
+      213: -7993537720491181445
+    second: PC Computer - Warcraft 2 - Grunt_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 580
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc5baac1d104ac0800000000000000
+      internalID: -3873063670578294849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08aeed314aed5440800000000000000
+      internalID: 4926351133346015247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 580
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3adcc33e3e2300800000000000000
+      internalID: 229189023243582332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 581
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6448d93b6347ff50800000000000000
+      internalID: 6915069880661722218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 578
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58712ade05ea52040800000000000000
+      internalID: 4622292255173121925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 525
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087937d2fb1344c50800000000000000
+      internalID: 6648493647076759424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5ad14bb1b04d550800000000000000
+      internalID: 6184580401900398000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 528
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9475e0b65c821870800000000000000
+      internalID: 8652132138095047839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 522
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a3ac3235567b80800000000000000
+      internalID: -8397430780931627917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 524
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1d5dab4a1666c0800000000000000
+      internalID: -4150601094241903988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 472
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29026c8694700cc30800000000000000
+      internalID: 4377506849675944082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 476
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ec257688194610800000000000000
+      internalID: 1605841707904854472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 474
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f137f2eb09bf7f90800000000000000
+      internalID: -6953635838933126665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 469
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff12d4c5295dc77b0800000000000000
+      internalID: -5225066643066117633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 469
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2173cc2bfea370800000000000000
+      internalID: 8335876129985474165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 416
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b71aaa9ae46ee70800000000000000
+      internalID: 9144082584041519972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 416
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c1856744125e60800000000000000
+      internalID: 7949438589140583990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198656deaf9bd0dc0800000000000000
+      internalID: -3671073633861277551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 419
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866056b76e198390800000000000000
+      internalID: -7815682247535597949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 413
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a809521a6f1c2fd0800000000000000
+      internalID: -2365481163841533790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 363
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3237cba55935b7c0800000000000000
+      internalID: -4056272849260301763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 363
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad3f8df5bca5c20800000000000000
+      internalID: 3196090498094979751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 367
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691987dec9e36fd0800000000000000
+      internalID: -2349777505968645788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 367
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd906fe50706cf400800000000000000
+      internalID: 359268106028583387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7d3d77d6ac98a70800000000000000
+      internalID: 8829811115947186138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9d21d4bac5e3d0800000000000000
+      internalID: -3177911084087665499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 337
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff875d0a0ce6a80800000000000000
+      internalID: -8471622052028547246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 309
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a648377e8872d3b0800000000000000
+      internalID: -5489192442530347356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 309
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e820087c4f67e0800000000000000
+      internalID: -1770112050250850025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 310
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95c5fe82a153ba0800000000000000
+      internalID: -6109948556341388889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 311
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599e4a5534d61080800000000000000
+      internalID: -9216946261753685678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ec51ac3456c260800000000000000
+      internalID: 7117468880487637634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 253
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3daf909ee3331fd0800000000000000
+      internalID: -2372495478972502723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 253
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77356c43dddc7d0f0800000000000000
+      internalID: -1092178034657176713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 254
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fb8393ced2bad0800000000000000
+      internalID: -2687841096011353921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819369ca2a272e50800000000000000
+      internalID: 6784437726912680327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6034c4292604a270800000000000000
+      internalID: 8260734390284595306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 195
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb07196004e54720800000000000000
+      internalID: 2829918631286475716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6025269f2dd1908f0800000000000000
+      internalID: -573894685548719610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d857afb33138e0800000000000000
+      internalID: -1715533084812062565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 197
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afe89ba2cfbe2ac0800000000000000
+      internalID: -3877951386295930972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 140
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516f32df2363b320800000000000000
+      internalID: 2572508869200666974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 140
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a733d8e6aaee8cb0800000000000000
+      internalID: -4859688945294559328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 140
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25359ecb09111690800000000000000
+      internalID: -7633292354915060433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79c640954ffadd0800000000000000
+      internalID: -2472489007239620656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 126
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386c7b1a940994c0800000000000000
+      internalID: -4280384910906333121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd121e53557c4e0800000000000000
+      internalID: -1961505422797841253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5412e2655a38a0800000000000000
+      internalID: -6324648843500298867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad08f210848eacc0800000000000000
+      internalID: -3697872558415671892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a98c9ff703cf950800000000000000
+      internalID: 6484110889716325007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 67
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421908b73ffd373e0800000000000000
+      internalID: -2057054367936114396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6974ac9121e190800000000000000
+      internalID: -7935024111792067792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bbf51916d4ac90800000000000000
+      internalID: -7159362104380903407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195bd61ffba1f1000800000000000000
+      internalID: 8755135969605009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Grunt_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aff677bcf311190800000000000000
+      internalID: -7993537720491181445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

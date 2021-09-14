@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 35f2739e647f04e47ab20f6ba90bac0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4859638290955602389
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_0
+  - first:
+      213: 4594341327345192388
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_1
+  - first:
+      213: 411926997008040476
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_2
+  - first:
+      213: -6181962910732245989
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_3
+  - first:
+      213: -6142815026231233409
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_4
+  - first:
+      213: 3615152618416108859
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_5
+  - first:
+      213: 585802839814312862
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_6
+  - first:
+      213: -5718162860551655236
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_7
+  - first:
+      213: -4428951802426444532
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_8
+  - first:
+      213: 7202704328134037686
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_9
+  - first:
+      213: 7478963911708736221
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_10
+  - first:
+      213: 5628272987449293182
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_11
+  - first:
+      213: 682420167955038235
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_12
+  - first:
+      213: 7012842642335037356
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_13
+  - first:
+      213: -8239888199384640880
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_14
+  - first:
+      213: -5134680086671018975
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_15
+  - first:
+      213: 4664923816087738260
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_16
+  - first:
+      213: -1464325609290731512
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_17
+  - first:
+      213: -6499443309942879108
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_18
+  - first:
+      213: 9039532528042817272
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_19
+  - first:
+      213: -1083453167150375143
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_20
+  - first:
+      213: 200387974456667475
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_21
+  - first:
+      213: -7798686017410027164
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_22
+  - first:
+      213: 7588019173307971523
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_23
+  - first:
+      213: 7406200306153317018
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_24
+  - first:
+      213: 8798338876270487000
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_25
+  - first:
+      213: -4398787064541729216
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_26
+  - first:
+      213: -4519807297386945619
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_27
+  - first:
+      213: 7192557432204454309
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_28
+  - first:
+      213: -6175124481769916132
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_29
+  - first:
+      213: -8898250532758337161
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_30
+  - first:
+      213: 1409408897743786974
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_31
+  - first:
+      213: -219575472479710935
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_32
+  - first:
+      213: 26713041434816961
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_33
+  - first:
+      213: 1702477640395740841
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_34
+  - first:
+      213: 2740592660886691755
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_35
+  - first:
+      213: 9220988873377041841
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_36
+  - first:
+      213: 6024226256738909407
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_37
+  - first:
+      213: 4045593606971814786
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_38
+  - first:
+      213: -6661795628511248739
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_39
+  - first:
+      213: -8842353638852800241
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_40
+  - first:
+      213: -1615865516015429748
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_41
+  - first:
+      213: 5646870578309301898
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_42
+  - first:
+      213: 3705442680060315878
+    second: PC Computer - Warcraft 2 - Orc Buildings Summer_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 546
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98b453747e07340800000000000000
+      internalID: 4859638290955602389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 548
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8e49681162cf30800000000000000
+      internalID: 4594341327345192388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 543
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ce0adb6577b500800000000000000
+      internalID: 411926997008040476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 542
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142a237c71453aa0800000000000000
+      internalID: -6181962910732245989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 453
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743e88974650caa0800000000000000
+      internalID: -6142815026231233409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 449
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f38d072a9b2230800000000000000
+      internalID: 3615152618416108859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 450
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931c8f3490312800800000000000000
+      internalID: 585802839814312862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 444
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0bcf8ac2105a0b0800000000000000
+      internalID: -5718162860551655236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 444
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bb012dc33982c0800000000000000
+      internalID: -4428951802426444532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 444
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01994cc6525f360800000000000000
+      internalID: 7202704328134037686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 347
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda7d5d6d0e9ac760800000000000000
+      internalID: 7478963911708736221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 346
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7977d35674ab1e40800000000000000
+      internalID: 5628272987449293182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 346
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c582f681787900800000000000000
+      internalID: 682420167955038235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca777124a3f925160800000000000000
+      internalID: 7012842642335037356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 368
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092deb6e65906ad80800000000000000
+      internalID: -8239888199384640880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 353
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b3b67aa3fdb8b0800000000000000
+      internalID: -5134680086671018975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975b22be732db040800000000000000
+      internalID: 4664923816087738260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 245
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f7bedd9badabe0800000000000000
+      internalID: -1464325609290731512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 259
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc011ceb65dc5a0800000000000000
+      internalID: -6499443309942879108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 249
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6b495d0fed27d70800000000000000
+      internalID: 9039532528042817272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 245
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fda39b51dc6f0f0800000000000000
+      internalID: -1083453167150375143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 245
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35defb21dcbe7c200800000000000000
+      internalID: 200387974456667475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4613879e26085c390800000000000000
+      internalID: -7798686017410027164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ffdd2c3f0e4960800000000000000
+      internalID: 7588019173307971523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9268af40fb18c660800000000000000
+      internalID: 7406200306153317018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 147
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5ac95a79af91a70800000000000000
+      internalID: 8798338876270487000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 150
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2867787e54f2c0800000000000000
+      internalID: -4398787064541729216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_27
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36802c53b6641c0800000000000000
+      internalID: -4519807297386945619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_28
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 150
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9642570e811d360800000000000000
+      internalID: 7192557432204454309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193944400d8d4aa0800000000000000
+      internalID: -6175124481769916132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77942801940138480800000000000000
+      internalID: -8898250532758337161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31b45dce93f8310800000000000000
+      internalID: 1409408897743786974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92155796549e3fcf0800000000000000
+      internalID: -219575472479710935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b791ae57ee5000800000000000000
+      internalID: 26713041434816961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 100
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a655d1d46a60a710800000000000000
+      internalID: 1702477640395740841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_35
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 82
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf913a318a880620800000000000000
+      internalID: 2740592660886691755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 83
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc773868887ff70800000000000000
+      internalID: 9220988873377041841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf08fdcd95a9350800000000000000
+      internalID: 6024226256738909407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283752973f5d42830800000000000000
+      internalID: 4045593606971814786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e365ceb2c8c83a0800000000000000
+      internalID: -6661795628511248739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01dbc9d636a94580800000000000000
+      internalID: -8842353638852800241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 27
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d819dfda4399e0800000000000000
+      internalID: -1615865516015429748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a860bb06fd6bd5e40800000000000000
+      internalID: 5646870578309301898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Orc Buildings Summer_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e801983c706c6330800000000000000
+      internalID: 3705442680060315878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
