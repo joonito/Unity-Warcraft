@@ -11,8 +11,8 @@ All animations are made out of 2D sprites.
 
 ![Image will show up please wait](./Images/GroupMovement.gif)
 ### Unit group movement
-A Group doesn't merge in to the one point. It maintains its formation always. 
+A Group doesn't merge in to the one point. It always maintains its formation. 
 
 ![Image will show up please wait](./Images/FootmanSpawner.gif)
 ### Unit spawner
-A spawner will spawn a unit every 10 secs.
+A spawner will spawn a unit every 10 seconds.
