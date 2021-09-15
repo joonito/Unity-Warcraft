@@ -16,3 +16,4 @@ A Group doesn't merge in to the one point. It always maintains its formation.
 ![Image will show up please wait](./Images/FootmanSpawner.gif)
 ### 👆 Unit spawner
 A spawner will spawn a unit every 10 seconds.
+ 
